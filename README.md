@@ -3,7 +3,10 @@
   # Workout Tracker
  
   [![The MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  
+
+  ## Link to deployed application:
+
+  [Workout Tracker](https://salty-chamber-71317.herokuapp.com/)  
 
   ## Table of Contents
   * [Description of the Project](#Description-of-the-project)
@@ -37,4 +40,7 @@
   Github Repository: https://github.com/dfabert  
   Any further questions, please e-mail me at:  df.webdev@gmail.com
   
-  
+  ## Deployed Images
+  ![Index](https://dfabert.github.io/WorkoutTracker/public/img/screenshots/index.JPG)
+  ![Exercise](https://dfabert.github.io/WorkoutTracker/public/img/screenshots/exercise.JPG)
+  ![Tracker](https://dfabert.github.io/WorkoutTracker/public/img/screenshots/tracker.JPG)
